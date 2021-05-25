@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 🙋🏽‍♂️ Just a new kid in this coding world.
+- 🙋🏽‍♂️ Just a new kid in this coding world.
 <!--
 **SandeepUrankar/SandeepUrankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 </br>
 ### Links...
 </br>
-- <a href="http://telegram.dog/imvoldemort"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+* <a href="http://telegram.dog/imvoldemort"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </br>
