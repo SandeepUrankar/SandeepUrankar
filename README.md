@@ -21,8 +21,11 @@
 ![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=black)
 </br>
 ![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&labelColor=black)
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&labelColor=black)
+![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&labelColor=black)
+![JS](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&labelColor=black)
+</br>
 ![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=black)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SandeepUrankar&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepUrankar&langs_count=10&layout=compact)
