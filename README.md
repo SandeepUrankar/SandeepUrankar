@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 </br>
 ###Connect with me..
-1. [Telegram! https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white!](http://telegram.dog/imvoldemort)
-2. [Twitter https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white!](http://twitter.com/sandeep_urankar)
+1. [Telegram!](http://telegram.dog/imvoldemort)
+2. [Twitter!](http://twitter.com/sandeep_urankar)
