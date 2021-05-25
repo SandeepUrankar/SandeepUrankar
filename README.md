@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepUrankar&langs_count=10&layout=compact)
 
 </br>
-###Connect with me..
-1. [Telegram!](http://telegram.dog/imvoldemort)
-2. [Twitter!](http://twitter.com/sandeep_urankar)
+###Connect with me.. 
+</br>
+- ![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)[Telegram!](http://telegram.dog/imvoldemort)
+</br>
