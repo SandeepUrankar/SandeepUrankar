@@ -10,18 +10,18 @@
 </br> </br>
 
 ### Known languages and tools...
-![CLang](https://img.shields.io/badge/Clang-black.svg?style=for-the-badge&logo=C&labelColor=white)
-![Java](https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=white)
-![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=white)
+![CLang](https://img.shields.io/badge/Clang-black.svg?style=for-the-badge&logo=C&labelColor=black)
+![Java](https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=black)
+![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
 </br>
-![Android](https://img.shields.io/badge/Android-black.svg?style=for-the-badge&logo=Android&labelColor=white)
-![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=white)
-![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=white)
+![Android](https://img.shields.io/badge/Android-black.svg?style=for-the-badge&logo=Android&labelColor=black)
+![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
+![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=black)
 </br>
-![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&labelColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=white)
+![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&labelColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=black)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SandeepUrankar&show_icons=true&count_private=true&include_all_commits=true)
 
