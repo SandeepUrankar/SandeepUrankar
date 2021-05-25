@@ -9,6 +9,19 @@
 - ⚡ Fun fact: I love Movies and Series😉
 </br> </br>
 
+### Known languages and tools...
+![CLang](https://img.shields.io/badge/Clang-black.svg?style=for-the-badge&logo=C&labelColor=black)
+![Java](https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=black)
+![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
+![Android](https://img.shields.io/badge/Android-black.svg?style=for-the-badge&logo=Android&labelColor=black)
+![Express](https://img.shields.io/badge/Express-black.svg?style=for-the-badge&logo=Express&labelColor=black)
+![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
+![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=black)
+![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&labelColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=black)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SandeepUrankar&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepUrankar&langs_count=10&layout=compact)
