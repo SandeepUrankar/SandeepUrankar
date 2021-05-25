@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 </br>
 ###Connect with me.. 
 </br>
+<a href="http://telegram.dog/imvoldemort"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 ![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)
 [Telegram!](http://telegram.dog/imvoldemort)
 </br>
