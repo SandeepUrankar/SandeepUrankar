@@ -10,7 +10,7 @@
 </br> </br>
 
 ### Known languages and tools...
-![CLang](https://img.shields.io/badge/Clang-black.svg?style=for-the-badge&logo=C&labelColor=black)
+![C](https://img.shields.io/badge/C-black.svg?style=for-the-badge&logo=C&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
