@@ -27,6 +27,8 @@
 </br>
 ![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=black)
 </br>
+</br>
+### Stats and info -
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SandeepUrankar&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepUrankar&langs_count=10&layout=compact)
