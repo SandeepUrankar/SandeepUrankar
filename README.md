@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🙋🏽‍♂️ Just a new kid in this coding world.
 - 🔭 I’m currently working on to complete my college.
-- 🌱 I’m currently learning ... Android, Python. (Still have to learn many)
+- 🌱 I’m currently learning Android, Python. (Still have to learn many)
 - 👯 I’m looking to collaborate on projects with Java, Android, and Web. (Soon Python)
 - 🤔 I’m looking for help with my bugs or any new languages.
 - 💬 Ask me about Anything....
