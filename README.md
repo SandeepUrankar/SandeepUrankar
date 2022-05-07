@@ -9,8 +9,13 @@
 - ⚡ Fun fact: I love Movies and Series😉
 </br> </br>
 
+### "Trophies"</br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SandeepUrankar)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Known languages and tools...
 ![C](https://img.shields.io/badge/C-black.svg?style=for-the-badge&logo=C&labelColor=black)
+![C++](https://img.shields.io/badge/-c++-black.svg?style=for-the-badge&logo=c%2B%2B&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
@@ -32,6 +37,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SandeepUrankar&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepUrankar&langs_count=10&layout=compact)
+
 
 ### Links...
 
