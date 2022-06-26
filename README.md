@@ -12,7 +12,8 @@ A student, noobie pro-grammer.
 <img src="https://img.shields.io/twitter/follow/Sandeep_Urankar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 <a href="https://www.github.com/SandeepUrankar" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/SandeepUrankar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-  
+<img src="https://media1.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif)(https://media1.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" height=100px width=100px/></a>
+
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
