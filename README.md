@@ -5,7 +5,6 @@ A student, noobie pro-grammer.
 ------------------------------
 
 *   🌍  I'm based in India.
-*   🧠  I'm currently learning Flutter.
 *   🤝  I'm open to collaborating on Web, Android, and anything that I know.
 *   ⚡  Movies and Series are fun.
 <a href="https://www.twitter.com/Sandeep_Urankar" target="_blank" rel="noreferrer">
