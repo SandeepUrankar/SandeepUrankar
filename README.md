@@ -6,6 +6,7 @@ A student, noobie pro-grammer.
 
 *   🌍  I'm based in India.
 *   🤝  I'm open to collaborating on Web, Android, and anything that I know.
+*   💪  Beginner in Opensource contribution.
 *   ⚡  Movies and Series are fun.
 <a href="https://www.twitter.com/Sandeep_Urankar" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/Sandeep_Urankar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
